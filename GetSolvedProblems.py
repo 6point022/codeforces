@@ -1,4 +1,5 @@
 import requests
+
 username = 'anmolgupta'
 s = requests.get('http://codeforces.com/api/user.status?handle=' + username).text
 
