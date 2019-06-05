@@ -1,4 +1,4 @@
-# codeforces
+# Codeforces
 
 ### GetSolvedProblems. py
 
